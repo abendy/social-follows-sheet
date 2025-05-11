@@ -1,0 +1,32 @@
+{
+    "prettier.configPath": ".prettierrc.js",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "[typescript]": {
+        "editor.formatOnSave": true
+    },
+    "[json]": {
+        "editor.formatOnSave": true
+    },
+    "workbench.preferredProfile": "TypeScript",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#3178C6",      // TypeScript blue
+        "statusBar.foreground": "#FFFFFF",      // White text for contrast
+        "tree.indentGuidesStroke": "#3178C6"
+    },
+    "workbench.tree.indent": 15,
+    "workbench.tree.renderIndentGuides": "always",
+    "editor.lightbulb.enabled": "off",
+    "editor.fontFamily": "Geist Mono",
+    "editor.fontLigatures": false,
+    "editor.fontWeight": "normal",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 20,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+}
